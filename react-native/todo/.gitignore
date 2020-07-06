@@ -1,0 +1,4 @@
+.expo*
+.vscode
+mode_modules
+web-build
