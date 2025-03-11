@@ -9,7 +9,7 @@ class App extends Component {
 
   componentWillMount() {
     firebase.initializeApp({
-      apiKey: 'AIzaSyBtxMY4K6uHxv_2e3GD-FWAD2ACX6lPVRE',
+      apiKey: 'api_key',
       authDomain: 'authentication-70a18.firebaseapp.com',
       databaseURL: 'https://authentication-70a18.firebaseio.com',
       storageBucket: 'authentication-70a18.appspot.com',
